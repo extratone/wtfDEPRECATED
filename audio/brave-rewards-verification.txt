@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: davidblue.xyz
+Token: 1db92a41d5d2be5f4d8f917bb4f77e7343ab4d5535d4835fc1bb9ef967854870
